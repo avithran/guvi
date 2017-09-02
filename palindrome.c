@@ -13,6 +13,6 @@ number=number/10;
 if(original==r)
  printf("palindrome");
 else
- printf("not paindrome");
+ printf("not palindrome");
 return 0;
 }
